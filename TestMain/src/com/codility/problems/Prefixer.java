@@ -1,4 +1,4 @@
-package com.equilibrium;
+package com.codility.problems;
 
 import java.util.ArrayList;
 import java.util.HashSet;
